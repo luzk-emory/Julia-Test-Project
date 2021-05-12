@@ -9,9 +9,9 @@ This is a test project for Julia
     ```
 
 - For local use, `cd PROJECT_NAME` and `] activate .`
-    
+  
 - Try `import TestProg; TestProg.greet() ` to test.
-    
+  
 - For global use, upload to github
     - In package mode of Julia, type
 
@@ -21,3 +21,4 @@ This is a test project for Julia
 
     - Try `import TestProg; TestProg.greet() ` to test.
 
+Current issue: cannot clone the pacakge from git (seems to be an issue of my git authorization)
