@@ -20,5 +20,4 @@ This is a test project for Julia
     ```
 
     - Try `import TestProg; TestProg.greet() ` to test.
-
-Current issue: cannot clone the pacakge from git (seems to be an issue of my git authorization)
+    - Note: have to configure SSH for Git first.
